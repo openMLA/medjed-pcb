@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Medjed-stage-sensor")(type "KiCad")(uri "${KIPRJMOD}/library/Medjed-stage-sensor.kicad_sym")(options "")(descr ""))
+  (lib (name "SHT40-AD1B-R3")(type "KiCad")(uri "${KIPRJMOD}/library/SHT40-AD1B-R3.kicad_sym")(options "")(descr ""))
+)

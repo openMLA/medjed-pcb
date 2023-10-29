@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "medjed-mainboard")(type "KiCad")(uri "${KIPRJMOD}/library/medjed-mainboard.kicad_sym")(options "")(descr ""))
+)
