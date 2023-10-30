@@ -2,6 +2,9 @@
 **/*-backups/*
 **/datasheets/*
 
+# Design files
+*.afdesign
+
 # FreeCAD models
 *.FCStd1
 
