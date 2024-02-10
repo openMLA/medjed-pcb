@@ -1,12 +1,12 @@
 ## Medjed Stage
 
-The controller board for the Medjed stage is built around a Teensy 4.1, Snapmaker linear axes and external RLC2IC encoders. The signal of the encoders is processed and converted to step/dir signals for the snapmaker axes by Trinamic `TLC4631`
+The controller board for the Medjed stage is built around a Teensy 4.1, Snapmaker linear axes and external RLC2IC encoders. The signal of the encoders is processed and converted to step/dir signals for the snapmaker axes by Trinamic `TMC4631`
 
 ![](board-layout-preview-3D.JPG)
 
 ### I2C Connection
 
-A STEMMA-QT connector is present on the board for any I2C peripherals. A planned connection would be a UV sensor to be fitted on the stage that will serve as stage calibration. 
+A STEMMA-QT connector (JST SH, 4 pin) is present on the board for any I2C peripherals. A planned connection would be a UV sensor to be fitted on the stage that will serve as stage calibration. 
 
 ### CAN Bus
 
@@ -36,10 +36,8 @@ We also need 5V and 3.3V supply on the board.
 
 3.3V:
 
-* TMC424: 1.5mA
-* TMC429: 10mA (running in 3.3V CMOS mode)
-* (for future revision: IMXRT60: 53mA)
+* TMC4631: ???
 
-1.5V:
+1.8V:
 
-* TMC424: 10.5mA
+* TMC4631: ???
