@@ -19085,7 +19085,7 @@
   (gr_text "TEENSY 4.1" (at 79.55 67.7) (layer "F.SilkS" knockout) (tstamp be795cbf-01ab-4389-a9da-68df7f191cc3)
     (effects (font (size 2 2) (thickness 0.35) bold) (justify bottom))
   )
-  (gr_text "1.5V\n" (at 117.7 67.4 90) (layer "F.SilkS" knockout) (tstamp d92ae3ab-8c95-4e8c-b664-71f736d04e86)
+  (gr_text "1.8V\n" (at 117.7 67.4 90) (layer "F.SilkS" knockout) (tstamp d92ae3ab-8c95-4e8c-b664-71f736d04e86)
     (effects (font (size 1 1) (thickness 0.18) bold) (justify left bottom))
   )
   (gr_text "5V\nTeensy\n" (at 112.9 69.6 90) (layer "F.SilkS" knockout) (tstamp e13a4ad7-0d66-4ee7-818b-4c5ee0cc0c9a)
