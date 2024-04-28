@@ -2,7 +2,7 @@
 
 The controller board for the Medjed stage is built around a Teensy 4.1, Snapmaker linear axes and external RLC2IC encoders. The signal of the encoders is processed and converted to step/dir signals for the snapmaker axes by Trinamic `TMC4631`
 
-![](board-layout-preview-3D.JPG)
+![](./board-layout-preview-3D.jpg)
 
 ### I2C Connection
 
