@@ -32,7 +32,6 @@ We also need 5V and 3.3V supply on the board.
 
 * Teensy 4.1: 100mA
 * [3X] RLC2IC encoders: <30mA (no termination resistors) or <130mA with 120ohm termination.
-* [3X] AM26LS32A: max 70mA, typ 50mA
 
 3.3V:
 
